@@ -11,5 +11,6 @@ Java Swing: For building the graphical user interface (GUI).
 3. Break all the bricks to win the game. <br>
 4. Avoid missing the ball or the game is over.  
 <br>
+<br>
 
 Feel free to explore this project. Feedback is always welcome! 
