@@ -9,7 +9,7 @@ Java Swing: For building the graphical user interface (GUI).
 1. Launch the game by running the Main.java file. <br>
 2. Use the left and right arrow keys to move the paddle. <br>
 3. Break all the bricks to win the game. <br>
-4. Avoid missing the ball or the game is over. 
+4. Avoid missing the ball or the game is over.  <br>
 
 
 Feel free to explore this project. Feedback is always welcome! 
