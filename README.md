@@ -15,4 +15,4 @@ Java Swing: For building the graphical user interface (GUI).
 
 Feel free to explore this project. Feedback is always welcome! 
 
-![image](https://github.com/user-attachments/assets/57181c7c-d8a1-4779-8bd4-9989c88843e6/w_200)
+<img src="https://github.com/user-attachments/assets/57181c7c-d8a1-4779-8bd4-9989c88843e6" alt="Game Screenshot" width="200">
